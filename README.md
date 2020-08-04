@@ -10,7 +10,7 @@ Tree task
 
 
 ## Example
-Download this repo from github and start in soem http server e.g. using command from symfony
+Download this repo from github and start in some http server e.g. using command from symfony
 `symfony server:start`
 
 index.php run by default and display on the screen tree.json with names in JSON format
